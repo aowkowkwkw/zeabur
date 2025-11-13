@@ -8,10 +8,10 @@ import stringSimilarity from './modules/stringSimilarity.js'
  
 
 //======== OWNER SETTINGS =======\\
-global.nomerOwner = "6285156137901";
-global.nomerOwner2 = "62813390135872";
+global.nomerOwner = "628515088173";
+global.nomerOwner2 = "628573335908";
 global.ownerPhoto = '' // photo owner
-global.nomerBot = "6285123884031"
+global.nomerBot = "6285179757983"
 global.ownerName = "Lala"; 
 global.gender = 'Boys'  
 global.agama = 'Islam' 
