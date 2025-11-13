@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  dittaz-express-bot:
+    build: .
+    container_name: dittaz-express-bot
+    restart: always
+    ports:
+      - "3000:3000"
+    deploy:
+      resources:
+        limits:
+          memory: 512M

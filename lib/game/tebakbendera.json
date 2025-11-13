@@ -1,0 +1,212 @@
+ [
+  {
+    "flag": "ID",
+    "name": "Indonesia",
+    "img": "https://flagcdn.com/w320/id.png",
+    "desc": "Negara kepulauan terbesar dengan ribuan pulau dan keanekaragaman budaya.",
+    "region": "Asia"
+  },
+  {
+    "flag": "CN",
+    "name": "Tiongkok",
+    "img": "https://flagcdn.com/w320/cn.png",
+    "desc": "Negara dengan populasi terbesar di dunia dan sejarah ribuan tahun.",
+    "region": "Asia"
+  },
+  {
+    "flag": "IN",
+    "name": "India",
+    "img": "https://flagcdn.com/w320/in.png",
+    "desc": "Negara Bollywood, Taj Mahal, dan rempah-rempah khas.",
+    "region": "Asia"
+  },
+  {
+    "flag": "JP",
+    "name": "Jepang",
+    "img": "https://flagcdn.com/w320/jp.png",
+    "desc": "Negara teknologi tinggi, budaya samurai, dan anime.",
+    "region": "Asia"
+  },
+  {
+    "flag": "KR",
+    "name": "Korea Selatan",
+    "img": "https://flagcdn.com/w320/kr.png",
+    "desc": "Negara K-pop, teknologi canggih, dan budaya unik.",
+    "region": "Asia"
+  },
+  {
+    "flag": "RU",
+    "name": "Rusia",
+    "img": "https://flagcdn.com/w320/ru.png",
+    "desc": "Negara terluas di dunia dengan sejarah kuat dan iklim ekstrem.",
+    "region": "Eropa"
+  },
+  {
+    "flag": "US",
+    "name": "Amerika Serikat",
+    "img": "https://flagcdn.com/w320/us.png",
+    "desc": "Negara adidaya dengan pengaruh budaya, militer, dan ekonomi global.",
+    "region": "Amerika"
+  },
+  {
+    "flag": "BR",
+    "name": "Brasil",
+    "img": "https://flagcdn.com/w320/br.png",
+    "desc": "Negara Amazon dan sepak bola, terkenal dengan karnaval Rio.",
+    "region": "Amerika"
+  },
+  {
+    "flag": "MX",
+    "name": "Meksiko",
+    "img": "https://flagcdn.com/w320/mx.png",
+    "desc": "Negara penuh sejarah Aztec dan makanan khas seperti taco dan burrito.",
+    "region": "Amerika"
+  },
+  {
+    "flag": "DE",
+    "name": "Jerman",
+    "img": "https://flagcdn.com/w320/de.png",
+    "desc": "Negara industri kuat dengan sejarah besar dan budaya bir.",
+    "region": "Eropa"
+  },
+  {
+    "flag": "GB",
+    "name": "Inggris",
+    "img": "https://flagcdn.com/w320/gb.png",
+    "desc": "Negara kerajaan dengan sejarah kolonial dan budaya global.",
+    "region": "Eropa"
+  },
+  {
+    "flag": "FR",
+    "name": "Prancis",
+    "img": "https://flagcdn.com/w320/fr.png",
+    "desc": "Negara mode, seni, dan Menara Eiffel.",
+    "region": "Eropa"
+  },
+  {
+    "flag": "IT",
+    "name": "Italia",
+    "img": "https://flagcdn.com/w320/it.png",
+    "desc": "Negara pizza, pasta, dan warisan Romawi.",
+    "region": "Eropa"
+  },
+  {
+    "flag": "TR",
+    "name": "Turki",
+    "img": "https://flagcdn.com/w320/tr.png",
+    "desc": "Negara transkontinental dengan Istanbul sebagai jembatan Asia-Eropa.",
+    "region": "Asia"
+  },
+  {
+    "flag": "NG",
+    "name": "Nigeria",
+    "img": "https://flagcdn.com/w320/ng.png",
+    "desc": "Negara Afrika terpadat dengan ekonomi terbesar di benua tersebut.",
+    "region": "Afrika"
+  },
+  {
+    "flag": "EG",
+    "name": "Mesir",
+    "img": "https://flagcdn.com/w320/eg.png",
+    "desc": "Rumah bagi Piramida, Sungai Nil, dan sejarah Firaun.",
+    "region": "Afrika"
+  },
+  {
+    "flag": "ZA",
+    "name": "Afrika Selatan",
+    "img": "https://flagcdn.com/w320/za.png",
+    "desc": "Negara dengan 3 ibu kota dan warisan Nelson Mandela.",
+    "region": "Afrika"
+  },
+  {
+    "flag": "ES",
+    "name": "Spanyol",
+    "img": "https://flagcdn.com/w320/es.png",
+    "desc": "Negara Matador dan Flamenco, terkenal dengan Paella dan klub sepak bola besar.",
+    "region": "Eropa"
+  },
+  {
+    "flag": "AR",
+    "name": "Argentina",
+    "img": "https://flagcdn.com/w320/ar.png",
+    "desc": "Negara asal Messi dan Tango, dikenal juga dengan steak dan Patagonia.",
+    "region": "Amerika"
+  },
+  {
+    "flag": "SA",
+    "name": "Arab Saudi",
+    "img": "https://flagcdn.com/w320/sa.png",
+    "desc": "Negara kaya minyak dan rumah bagi dua kota suci Islam: Mekkah dan Madinah.",
+    "region": "Asia"
+  },
+  {
+    "flag": "CA",
+    "name": "Kanada",
+    "img": "https://flagcdn.com/w320/ca.png",
+    "desc": "Negara luas dengan alam indah, terkenal dengan maple syrup dan hoki es.",
+    "region": "Amerika"
+  },
+  {
+    "flag": "AU",
+    "name": "Australia",
+    "img": "https://flagcdn.com/w320/au.png",
+    "desc": "Negara benua dengan Kanguru, Opera House, dan pantai eksotis.",
+    "region": "Oseania"
+  },
+  {
+    "flag": "TH",
+    "name": "Thailand",
+    "img": "https://flagcdn.com/w320/th.png",
+    "desc": "Negara wisata populer di Asia Tenggara, terkenal dengan kuliner pedas dan kuil emas.",
+    "region": "Asia"
+  },
+  {
+    "flag": "PL",
+    "name": "Polandia",
+    "img": "https://flagcdn.com/w320/pl.png",
+    "desc": "Negara Eropa Tengah dengan sejarah panjang dan arsitektur klasik yang menawan.",
+    "region": "Eropa"
+  },
+  {
+    "flag": "UA",
+    "name": "Ukraina",
+    "img": "https://flagcdn.com/w320/ua.png",
+    "desc": "Negara terbesar di Eropa (non-Rusia) dengan ladang gandum luas dan sejarah panjang.",
+    "region": "Eropa"
+  },
+  {
+    "flag": "CO",
+    "name": "Kolombia",
+    "img": "https://flagcdn.com/w320/co.png",
+    "desc": "Negara Amerika Latin dengan kopi kelas dunia dan musik salsa yang meriah.",
+    "region": "Amerika"
+  },
+  {
+    "flag": "ET",
+    "name": "Ethiopia",
+    "img": "https://flagcdn.com/w320/et.png",
+    "desc": "Negara Afrika Timur dengan sejarah kuno, kopi asli, dan budaya unik.",
+    "region": "Afrika"
+  },
+  {
+    "flag": "IR",
+    "name": "Iran",
+    "img": "https://flagcdn.com/w320/ir.png",
+    "desc": "Negara Timur Tengah dengan peradaban Persia dan budaya kaya.",
+    "region": "Asia"
+  },
+  {
+    "flag": "PK",
+    "name": "Pakistan",
+    "img": "https://flagcdn.com/w320/pk.png",
+    "desc": "Negara Asia Selatan dengan sejarah Mughal dan makanan berbumbu khas.",
+    "region": "Asia"
+  },
+  {
+    "flag": "VN",
+    "name": "Vietnam",
+    "img": "https://flagcdn.com/w320/vn.png",
+    "desc": "Negara Asia Tenggara dengan sejarah kolonial dan kuliner jalanan yang lezat.",
+    "region": "Asia"
+  }
+]

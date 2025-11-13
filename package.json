@@ -1,0 +1,35 @@
+{
+  "name": "fearless",
+  "version": "6.7.0",
+  "developer": "officialdittaz",
+  "description": "Simple whatsapp bot with multi device.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --optimize_for_size --max_old_space_size=512 --gc_interval=100 index.js "
+  },
+  "author": "Dittaz",
+  "license": "MIT",
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "axios": "^0.27.2",
+    "baileys": "npm:@neoxr/baileys",
+    "btch-downloader": "^3.7.18",
+    "cheerio": "^1.0.0",
+    "child_process": "^1.0.2",
+    "chokidar": "^3.5.3",
+    "cluster": "^0.7.7",
+    "express": "^5.1.0",
+    "ffmpeg-static": "^5.2.0",
+    "file-type": "^18.7.0",
+    "form-data": "^4.0.0",
+    "fs-extra": "^11.3.0",
+    "lru-cache": "^11.1.0",
+    "mongoose": "^8.15.1",
+    "natural": "^8.1.0",
+    "node-webpmux": "^3.2.1",
+    "ruhend-scraper": "^9.0.1",
+    "sharp": "^0.30.7",
+    "yt-search": "^2.7.6"
+  }
+}
